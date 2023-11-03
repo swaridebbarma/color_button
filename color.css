@@ -1,0 +1,35 @@
+#box{
+width:400px;
+height:300px;
+border:8px solid black;
+background:lightgray;
+margin:0px;
+}
+.button1{
+    height:40px;
+    width:70px;
+    background-color:red;
+}
+.button2{
+    height:40px;
+    width:70px;
+    background-color:yellow;
+}
+.button3{
+    height:40px;
+    width:70px;
+    background-color:green;
+}
+.button4{
+    height:40px;
+    width:70px;
+    background-color:pink;
+}
+#search-movie-box{
+    height:30px;
+    width:200px;   
+    background-color:lightgray;
+}
+body{
+    background-color:#314459;
+}
